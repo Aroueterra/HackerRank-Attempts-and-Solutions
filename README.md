@@ -3,7 +3,7 @@
  These will be written either in C# or Java when necessary.
  
  Goal:
- Get 5 stars in each category / ~~Do not become lazy!
+ Get 5 stars in each category / ~~ Avoid becoming lazy ~~
 
 Current Progress:
 
